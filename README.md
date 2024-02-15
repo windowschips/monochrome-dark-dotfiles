@@ -15,7 +15,7 @@ just make sure you have:
 
 - gnome-terminal (you can change this in the hyprland config file if you hate it for whatever reason)
 
-- sassc
+- sassc  (EVERYTHING GETS FUCKED UP IF YOU DONT INSTALL THIS))))))))))))
 
 - hyprland
 
