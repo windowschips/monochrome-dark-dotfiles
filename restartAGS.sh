@@ -1,0 +1,2 @@
+ags --quit
+ags & disown

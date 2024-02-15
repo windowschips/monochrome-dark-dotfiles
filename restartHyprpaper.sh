@@ -1,0 +1,2 @@
+killall hyprpaper
+hyprpaper & disown

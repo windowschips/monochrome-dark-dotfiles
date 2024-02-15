@@ -1,0 +1,57 @@
+daemonize
+show-failed-attempts
+clock
+
+# AM/PM formats (American Format)
+datestr=%I:%M %p
+timestr=locked
+
+#24 HRS clock format and standard Europe Date Format
+#timestr=%H:%M:%S
+#datestr=%d %B, %a
+
+# Add current display as background
+screenshots
+
+# Add an image as a background. You need to disable screenshots above
+#image=~/.config/background
+
+# Effect for background
+# NOTE: if you choose image as wallpaper, you may want to comment (#) these effects 
+effect-blur=50x5
+effect-vignette=0.6:0.5
+effect-greyscale
+# effect-pixelate=5
+
+color=1f1d2e80
+font="Fira Code Medium"
+indicator
+indicator-radius=200
+indicator-thickness=5
+
+text-color=fcfcfc
+text-caps-lock-color=fcfcfc
+inside-color=171717
+line-color=242424
+ring-color=2D2D2D
+separator-color=00000000
+text-ver-color=fcfcfc
+inside-ver-color=171717
+line-ver-color=242424
+ring-ver-color=5555ff
+text-wrong-color=fcfcfc
+inside-wrong-color=171717
+line-wrong-color=242424
+ring-wrong-color=ff5555
+text-clear-color=fcfcfc
+inside-clear-color=171717
+line-clear-color=242424
+ring-clear-color=fcfcfc
+key-hl-color=fcfcfc
+bs-hl-color=ff5555
+
+grace=3
+grace-no-mouse
+grace-no-touch
+fade-in=2
+ignore-empty-password
