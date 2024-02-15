@@ -13,6 +13,8 @@ just make sure you have:
 
 - ags
 
+- gnome-terminal (you can change this in the hyprland config file if you hate it for whatever reason)
+
 - sassc
 
 - hyprland
@@ -35,3 +37,6 @@ just make sure you have:
 
 
 - this is rushed becuase you guys keep begging for the dotfiles
+
+i only tested this on fedora GNOME which i installed hyprland on
+# enjoy.
